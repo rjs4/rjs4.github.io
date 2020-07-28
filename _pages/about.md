@@ -8,6 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-**big placeholder**
-====
-ye
+big placeholder
